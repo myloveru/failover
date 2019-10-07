@@ -1,0 +1,2 @@
+https://api.love.ru/
+https://api.damochka.ru/
